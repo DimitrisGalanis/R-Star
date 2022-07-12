@@ -1,3 +1,3 @@
 # R-Star Tree
 
-Educational Purpose Project for Auth Universityh
+Educational Purpose Project for Auth University
